@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshu70302" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu70302?logo=twitter&style=for-the-badge" alt="priyanshu70302" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix Clone](https://grand-capybara-d5a3c9.netlify.app/)
+- 🔭 I’m currently working on [Web3 and Blockchain](https://grand-capybara-d5a3c9.netlify.app/)
 
 - 🌱 I’m currently learning **ReactJS, Flutter**
 
